@@ -14,8 +14,8 @@ python3 -m pip install requests
 
 python3 -m pip install bs4
 
-git clone https://github.com/hekelpro/ssh
+git clone https://github.com/Rerechan02/free.git
 
-cd ssh
+cd free
 
-python ssh.py
+python free.py
